@@ -1,0 +1,17 @@
+### FILES
+backend             : cairo
+savefig.format      : pdf
+savefig.bbox        : tight
+savefig.pad_inches  : 0.1
+
+### GRIDS
+axes.grid           : True    # display grid or not
+axes.edgecolor      : grey    # axes edge color
+xtick.color         : grey
+ytick.color         : grey
+axes.axisbelow      : True    # whether axis gridlines and ticks are below
+                              # the axes elements (lines, text, etc)
+grid.color          : d3d3d3  # grid color
+#grid.linestyle     : -       # solid
+#grid.linewidth     : 0.8     # in points
+#grid.alpha         : 1.0     # transparency, between 0.0 and 1.0

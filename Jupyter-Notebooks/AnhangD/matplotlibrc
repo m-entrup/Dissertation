@@ -1,0 +1,17 @@
+### FILES
+backend             : cairo
+savefig.format      : pdf
+savefig.bbox        : tight
+savefig.pad_inches  : 0.1
+
+### GRIDS
+axes.grid           : True    # display grid or not
+axes.edgecolor      : grey    # axes edge color
+xtick.color         : grey
+ytick.color         : grey
+axes.axisbelow      : True    # whether axis gridlines and ticks are below
+grid.color          : d3d3d3  # grid color
+
+### TEXT
+text.usetex         : True
+text.latex.unicode  : True

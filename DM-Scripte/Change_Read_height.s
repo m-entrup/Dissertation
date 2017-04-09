@@ -14,8 +14,8 @@ result("The current Read heigt is: " + tagValue + "\n")
 // Show a number dialog and change the value
 if(getNumber("Enter the new Read height: ", tagValue, newTagValue))
 {
-	setPersistentNumberNote(fullTagPath, newTagValue)
-	// Display the new value
-	getPersistentNumberNote(fullTagPath, tagValue)
-	result("The new Read height is: " + tagValue + "\n")
+    setPersistentNumberNote(fullTagPath, newTagValue)
+    // Display the new value
+    getPersistentNumberNote(fullTagPath, tagValue)
+    result("The new Read height is: " + tagValue + "\n")
 }

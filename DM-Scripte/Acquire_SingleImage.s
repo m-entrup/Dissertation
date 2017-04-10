@@ -5,7 +5,7 @@ String author = "M. Entrup";
 
 /*
  * All acquire scripts use a similar structure.
- * Therefoe only Acquire_EELSCalSeries.s contains extensive comments.
+ * Therefore only Acquire_EELSCalSeries.s contains extensive comments.
  */
 
 
